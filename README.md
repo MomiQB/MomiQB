@@ -2,22 +2,22 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and researcher with a strong academic foundation and a keen interest in leveraging technology to make a difference.
 
-## 🚀 About Me
+<!--## 🚀 About Me -->
 
-- 🎓 **Education**
+## 🎓 **Education**
   - Bachelor in Mathematics
     🏫 University of Modena and Reggio Emilia 
   - MSc Student in Artificial Intelligence, majoring in AI for Healthcare and Environment
     🏫 University of Milan-Bicocca / University of Milan / University of Pavia
 
-- 🌱 **Interests**
+## 🌱 **Interests**
   - Computer Vision applications
   - Explainable AI (XAI) techniques
 
-- 🛠️ **Languages/Frameworks**
+## 🛠️ **Languages/Frameworks**
   - Python, R, C, HTML/CSS/JavaScript, MATLAB, NetLogo
 
-- 🎭 **Side Hustle**
+## 🎭 **Side Hustle**
   - Co-founder of a circus-theatre company. Check it out [here]([LINK](https://compagniadelbuco.it/))!
 
 ## 📚 Featured Projects
