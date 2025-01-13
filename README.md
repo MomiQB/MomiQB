@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
 <!--## 🚀 About Me -->
 
 ## 🎓 **Education**
-  - Bachelor in Mathematics
+  - Bachelor in Mathematics  
     🏫 University of Modena and Reggio Emilia 
-  - MSc Student in Artificial Intelligence, majoring in AI for Healthcare and Environment
+  - MSc Student in Artificial Intelligence, majoring in AI for Healthcare and Environment  
     🏫 University of Milan-Bicocca / University of Milan / University of Pavia
 
 ## 🌱 **Interests**
