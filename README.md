@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Simone Vaccari</h1>
 </div>
 
-I'm a Master's degree student with a passion for AI, fascinated by Mathematics, intrigued by space. Fun fact about me: I'm the co-founder of a circus-theatre company, with which I have performed internationally. Check it out [here]((https://compagniadelbuco.it/)!
+Welcome to my GitHub profile! I'm a Master's degree student with a passion for AI, fascinated by Mathematics, intrigued by space. 
 
 ## 🎓 Education
   - **Bachelor in Mathematics**  
@@ -37,6 +37,9 @@ Feel free to explore all my projects [here](https://github.com/MomiQB).
 - 📧 Email: [vaccarisimone.vs@gmail.com](mailto:vaccarisimone.vs@gmail.com)  
 - 💼 LinkedIn: [simone-vaccari-b4368a2b6](https://www.linkedin.com/in/simone-vaccari-b4368a2b6/)  
 - 🌐 GitHub: [MomiQB](#)
+
+## 🎪 Fun Fact about Me
+I'm the co-founder of a circus-theatre company, with which I have performed internationally. Check it out [here](https://compagniadelbuco.it/)!
 
 ---
 
