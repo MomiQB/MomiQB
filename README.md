@@ -43,7 +43,7 @@ Feel free to explore all my projects [here](https://github.com/MomiQB).
 
 ---
 
-Thanks for stopping by! I'm always open to collaboration or just a friendly chat about AI, mathematics, or even circus-theatre. 😊
+Thanks for stopping by! I'm always open to collaboration or just a friendly chat about AI, mathematics, or anything interesting, really. Feel free to reach out! 🔥
 
 
 <!--
