@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and researcher with a strong academic foundation and a keen interest in leveraging technology to make a difference.
 
-<!--## 🚀 About Me -->
+## 🚀 About Me 
+I'm a Master's degree student with a passion for AI, fascinated by Mathematics, intrigued by space. Fun fact about me: I'm the co-founder of a circus-theatre company, with which I have performed internationally. Check it out [here]([LINK](https://compagniadelbuco.it/))!
 
 ## 🎓 **Education**
   - Bachelor in Mathematics  
@@ -16,9 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
 
 ## 🛠️ **Languages/Frameworks**
   - Python, R, C, HTML/CSS/JavaScript, MATLAB, NetLogo
-
-## 🎭 **Side Hustle**
-  - Co-founder of a circus-theatre company. Check it out [here]([LINK](https://compagniadelbuco.it/))!
 
 ## 📚 Featured Projects
 
