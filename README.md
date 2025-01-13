@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">Hi there! 👋 I'm Simone Vaccari</h1>
+<div align="center">
+  <h1>Hi there! 👋 I'm Simone Vaccari</h1>
+</div>
 
 Welcome to my GitHub profile! I'm a passionate developer and researcher with a strong academic foundation and a keen interest in leveraging technology to make a difference.
 
