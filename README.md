@@ -5,17 +5,17 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher with a s
 ## 🚀 About Me 
 I'm a Master's degree student with a passion for AI, fascinated by Mathematics, intrigued by space. Fun fact about me: I'm the co-founder of a circus-theatre company, with which I have performed internationally. Check it out [here]([LINK](https://compagniadelbuco.it/))!
 
-## 🎓 **Education**
-  - Bachelor in Mathematics  
+## 🎓 Education
+  - **Bachelor in Mathematics**  
     🏫 University of Modena and Reggio Emilia 
-  - MSc Student in Artificial Intelligence, majoring in AI for Healthcare and Environment  
+  - **MSc Student in Artificial Intelligence**, majoring in AI for Healthcare and Environment  
     🏫 University of Milan-Bicocca / University of Milan / University of Pavia
 
-## 🌱 **Interests**
-  - Computer Vision applications
-  - Explainable AI (XAI) techniques
+## 🌱 Interests
+  - **Computer Vision** applications
+  - **Explainable AI (XAI)** techniques
 
-## 🛠️ **Languages/Frameworks**
+## 🛠️ Languages/Frameworks
   - Python, R, C, HTML/CSS/JavaScript, MATLAB, NetLogo
 
 ## 📚 Featured Projects
