@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a Master's degree student with a passion for A
 ## 🌱 Interests
   - **Computer Vision** applications
   - **Explainable AI (XAI)** techniques
+  - **Machine Learning**
 
 ## 🛠️ Languages/Frameworks
 - The ones I use more often:<br>  
