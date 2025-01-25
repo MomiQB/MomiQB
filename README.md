@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Master's degree student with a passion for A
     <a href="https://cran.rstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://ccl.northwestern.edu/netlogo-ccl/netlogo.png" alt="Netlogo" width="40" height="40"/> </a>
 
-- The ones self-taught:<br>  
+- The ones I learned self-taught:<br>  
  <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> </a>
   <a href=" https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="60" height="40"/> </a>
