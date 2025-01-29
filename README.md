@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a Master's degree student with a passion for A
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> </a>
   <a href=" https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="60" height="40"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png" alt="sqlalchemy" width="60" height="40"/> </a>
  <!-- - Python, R, C, HTML/CSS/JavaScript, MATLAB, NetLogo-->
 
 ## 📚 Featured Projects
